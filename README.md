@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on REVITE
+- ![GitHub Views](https://komarev.com/ghpvc/?username=Quy-Thanh)
+
