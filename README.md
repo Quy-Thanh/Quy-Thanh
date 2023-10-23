@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on REVITE
 - ![GitHub Views](https://komarev.com/ghpvc/?username=Quy-Thanh)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quy-Thanh&theme=tokyonight)
+
 
