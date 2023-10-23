@@ -1,21 +1,13 @@
-### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Quy-Thanh)](https://git.io/streak-stats)
-<!--
-**Quy-Thanh/Quy-Thanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on REVITE
-- ![GitHub Views](https://komarev.com/ghpvc/?username=Quy-Thanh)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quy-Thanh&theme=tokyonight)
+<p align="center">
+ <img width="50%" src="https://streak-stats.demolab.com/?user=Quy-Thanh" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Welcome to Thanh's workplace</h2>
+ <p align="center">Below, you'll find some repositories that you can refer to!</p>
+</p>
+<a href="https://github.com/Quy-Thanh/VGG16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quy-Thanh&repo=VGG16" />
+</a>
+<a href="https://github.com/Quy-Thanh/Isolation-Forest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Quy-Thanh&repo=Isolation-Forest" />
+</a>
 
 
